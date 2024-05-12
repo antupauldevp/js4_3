@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 1000px;
+}
+#parent{
+   
+    height: 20px;
+    background-color: #1abc9c;
+    position: fixed;
+}
